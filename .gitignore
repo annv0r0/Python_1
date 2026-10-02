@@ -1,7 +1,7 @@
 # Virtual environment
 .venv/
 
-# Jupyter 
+# Jupyter
 .ipynb_checkpoints/
 
 # macOS
@@ -10,3 +10,6 @@
 # Python cache
 __pycache__/
 *.pyc
+
+# data
+data/
